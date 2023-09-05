@@ -6,6 +6,8 @@ metadata:
   tags:
     - go
     - website
+  annotations:
+    github.com/project-slug: ka2222222/backstage
 spec:
   type: website
   lifecycle: production
